@@ -6,6 +6,7 @@ book:
   author: "Louise Bechmann"
   chapters:
     - index.qmd
+    - syllabus.qmd
 
 format:
   html:
